@@ -201,7 +201,7 @@ _:-ms-input-placeholder, :root .demo-graph {
   font-size: 1em;
 }
 .demo-updates .mdl-card__title {
-  background-image: url('images/Portfolio.png');
+  background-image: url('Portfolio/images/Portfolio.png');
   background-position: center;
   background-repeat: no-repeat;
 }
